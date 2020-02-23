@@ -1,0 +1,13 @@
+$principal-font:'IBM Plex Sans', sans-serif;
+$button-font: 'IBM Plex Mono', monospace;
+$title-color: #FFFF;
+$blue-div:blue;
+$principal-green :#00F3BB;
+$title-size : 20px;
+
+%parrafo {
+    font-family: $principal-font;
+    font-size: 14px;
+    line-height: 1.6em;
+    letter-spacing: 0.2em;
+}
